@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nghialt99.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nghialt99.github.io/static/js/main.69d4ca55.chunk.js",
+    "main.js.map": "/nghialt99.github.io/static/js/main.69d4ca55.chunk.js.map",
+    "runtime-main.js": "/nghialt99.github.io/static/js/runtime-main.c3d9a697.js",
+    "runtime-main.js.map": "/nghialt99.github.io/static/js/runtime-main.c3d9a697.js.map",
+    "static/js/2.3efdfe61.chunk.js": "/nghialt99.github.io/static/js/2.3efdfe61.chunk.js",
+    "static/js/2.3efdfe61.chunk.js.map": "/nghialt99.github.io/static/js/2.3efdfe61.chunk.js.map",
+    "index.html": "/nghialt99.github.io/index.html",
+    "precache-manifest.e55a461129b555b16d23baaa414fe0e7.js": "/nghialt99.github.io/precache-manifest.e55a461129b555b16d23baaa414fe0e7.js",
+    "service-worker.js": "/nghialt99.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nghialt99.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3efdfe61.chunk.js.LICENSE.txt": "/nghialt99.github.io/static/js/2.3efdfe61.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nghialt99.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3d9a697.js",
+    "static/js/2.3efdfe61.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.69d4ca55.chunk.js"
+  ]
+}
