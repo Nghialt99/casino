@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/casino/static/css/main.294325fc.chunk.css",
-    "main.js": "/casino/static/js/main.a4eccbd0.chunk.js",
-    "main.js.map": "/casino/static/js/main.a4eccbd0.chunk.js.map",
+    "main.js": "/casino/static/js/main.9a0d7579.chunk.js",
+    "main.js.map": "/casino/static/js/main.9a0d7579.chunk.js.map",
     "runtime-main.js": "/casino/static/js/runtime-main.05c43aa7.js",
     "runtime-main.js.map": "/casino/static/js/runtime-main.05c43aa7.js.map",
     "static/js/2.b2efc627.chunk.js": "/casino/static/js/2.b2efc627.chunk.js",
     "static/js/2.b2efc627.chunk.js.map": "/casino/static/js/2.b2efc627.chunk.js.map",
     "index.html": "/casino/index.html",
-    "precache-manifest.4232c4870865ef873477b5c59db91cf9.js": "/casino/precache-manifest.4232c4870865ef873477b5c59db91cf9.js",
+    "precache-manifest.e435a0f4c207a66b17139888b0ed3610.js": "/casino/precache-manifest.e435a0f4c207a66b17139888b0ed3610.js",
     "service-worker.js": "/casino/service-worker.js",
     "static/css/main.294325fc.chunk.css.map": "/casino/static/css/main.294325fc.chunk.css.map",
     "static/js/2.b2efc627.chunk.js.LICENSE.txt": "/casino/static/js/2.b2efc627.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.05c43aa7.js",
     "static/js/2.b2efc627.chunk.js",
     "static/css/main.294325fc.chunk.css",
-    "static/js/main.a4eccbd0.chunk.js"
+    "static/js/main.9a0d7579.chunk.js"
   ]
 }
